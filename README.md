@@ -37,7 +37,7 @@ EmotionSync is an innovative AI-powered virtual assistant that combines multimod
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/emotionsync.git
+git clone https://github.com/mdzubayerhossain/emotionsync.git
 cd emotionsync
 ```
 
@@ -123,9 +123,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [mdzubayerhossainpatowari@gmail.com](mdzubayerhossainpatowari@gmail.com)
 
-Project Link: [https://github.com/yourusername/emotionsync](https://github.com/yourusername/emotionsync)
+Project Link: [https://github.com/mdzubayerhossain/emotionsync](https://github.com/mdzubayerhossain/emotionsync)
 
 ## Acknowledgments
 
