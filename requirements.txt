@@ -1,0 +1,9 @@
+tensorflow>=2.0
+torch>=1.9
+opencv-python>=4.5
+fer>=22.0
+transformers>=4.0
+librosa>=0.8
+speechrecognition>=3.8
+numpy>=1.19
+pytest>=6.0
